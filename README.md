@@ -1,1 +1,1 @@
-# simpleJSApp
+# JsBootcamp
